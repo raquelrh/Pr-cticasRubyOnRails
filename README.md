@@ -1,3 +1,3 @@
-# PracticasRubyOnRails
+# README
 
-Prácticas de Ruby
+Contiene la práctica de Ruby On Rails
