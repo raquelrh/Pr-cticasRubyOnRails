@@ -3,7 +3,7 @@
 
 require_relative 'config/application'
 ##Añadido para heroku
-require "sinatra/activerecord/rake"
-require "./app"
+require 'sinatra/activerecord/rake'
+require './app'
 
 Rails.application.load_tasks
