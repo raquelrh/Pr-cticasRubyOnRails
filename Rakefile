@@ -2,8 +2,5 @@
 # for example lib/tasks/capistrano.rake, and they will automatically be available to Rake.
 
 require_relative 'config/application'
-##Añadido para heroku
-require 'sinatra/activerecord/rake'
-require './app'
 
 Rails.application.load_tasks
